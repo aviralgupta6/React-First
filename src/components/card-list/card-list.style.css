@@ -1,0 +1,8 @@
+.card-list {
+  background-color: azure;
+  width: 85vw;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
